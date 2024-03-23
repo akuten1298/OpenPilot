@@ -1,0 +1,11 @@
+numpy==1.26.4
+langchain_community
+langchain
+open-interpreter
+langchain_openai
+langchain-experimental
+pymilvus 
+milvus 
+sentence-transformers 
+tiktoken 
+octoai-sdk
